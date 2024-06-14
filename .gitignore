@@ -28,5 +28,7 @@ package-lock.json
 *.jpeg
 *.png
 
+.pickle
+
 
 Constant.py
